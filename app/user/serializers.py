@@ -70,4 +70,3 @@ class AuthTokenSerializer(serializers.Serializer):
 
         data["user"] = user
         return data
-
